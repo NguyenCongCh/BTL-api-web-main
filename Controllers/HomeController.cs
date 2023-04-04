@@ -26,5 +26,9 @@ namespace BTL_api_web_main.Controllers
 
             return View();
         }
+        public ActionResult ChiTietThoiTiet()
+        {
+            return View();
+        }
     }
 }
